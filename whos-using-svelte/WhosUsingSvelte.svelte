@@ -156,5 +156,6 @@
 	<a target="_blank" rel="noopener" href="https://www.fibretiger.co.za"><img src="organisations/fibre-tiger.png" alt="Fibre Tiger" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://cakcuk.io"><img src="organisations/cakcuk.svg" alt="Cakcuk logo" loading="lazy"></a>
   <a target="_blank" rel="noopener" href="https://sel-home.us"><img  src="organisations/sel_home.png"  alt="Sel home" loading="lazy"></a>
+	  <a target="_blank" rel="noopener" href="https://startlegal.id"><img  src="organisations/startlegal.svg"  alt="Startlegal Home" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://github.com/sveltejs/community/blob/master/whos-using-svelte/WhosUsingSvelte.svelte" class="add-yourself"><span>+ your company?</span></a>
 </div>
